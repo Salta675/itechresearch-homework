@@ -7,4 +7,4 @@ This repository contains my homework
 assignments for the ITechResearch course.
 
 ## Homework
-- Homework 1 - 01/11/2026
+- Homework 1 - 01/11/2026 - tasks from 1 to 48 out of 50
