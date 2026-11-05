@@ -1,0 +1,21 @@
+guesses = [50, 25, 37, 45, 42, 30]
+
+secret = 42
+
+
+
+def check_guess(secret, *guess):
+  count = 0
+  for i in guess:
+    count += 1 
+
+    if i == secret:
+      print(i, "Таптыңыз!")
+      print("Әрекеттер саны:", count)
+      break
+    elif i < secret:
+      print(i, "Ойлаған сан үлкенірек")
+    else:
+      print(i, "Ойлаған сан кішірек")
+
+print(check_guess(secret, *guesses))
