@@ -11,4 +11,6 @@ assignments for the ITechResearch course.
 - 05/11/2026 - task #49 variant 1 using "for"
 - 06/11/2026 - finished task #49 variant 2 using "while", also task #50
 
-- Homework 2 - 11/11/2026 
+- Homework 2 - 11/11/2026
+- 
+- Homework 3 - 21/11/2026 
